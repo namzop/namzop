@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">I am Namz</h1>
 
-<!--
-**namzop/namzop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align = "center"> And You Just Got Here </h3>
 
-Here are some ideas to get you started:
+<p align = "center"><img src = "https://komarev.com/ghpvc/?username=namzop&color=green"> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔥 I am currently learning *Javascript*
+* 🥳 I am a passionate Developer.
+* 👏 I am a fast learner.
+* 💻 Contact me - [Twitter](https://twitter.com/notnamz)  [Email](mailto:namz@namz.gq) 
+
+Projects - 
+* [DSC BOT](https://dscbot.ml)
+* [Fake Jailbreak](https://namzop.github.io/fake-jailbreak)
+
+<p align  = "center"><img src = "https://github-readme-stats.vercel.app/api?username=namzop&count_private=true&count_forked=true&show_icons=true&&theme=algolia"> </p>
