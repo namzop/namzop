@@ -12,3 +12,4 @@
 
 <p align  = "center"><img src = "https://github-readme-stats.vercel.app/api?username=namzop&count_private=true&count_forked=true&show_icons=true&&theme=algolia"> </p>
 <p align  = "center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=namzop&theme=blue-green"> </p>
+<p align  = "center"><img src = "https://github-readme-streak-stats.herokuapp.com/?user=namzop&theme=blue-green"> </p>
